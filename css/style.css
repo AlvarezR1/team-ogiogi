@@ -27,3 +27,6 @@ list-style: none;
     display: block;
     padding: 0.5rem 2rem;
 }
+.img-reunion img{
+    border-radius: 5px;
+}
