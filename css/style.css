@@ -30,3 +30,8 @@ list-style: none;
 .img-reunion img{
     border-radius: 5px;
 }
+.text-center{
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
