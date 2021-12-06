@@ -46,10 +46,15 @@ padding: 0.5rem 2rem;
 }
 
 .img-reunion img{
+
+    border-radius: 5px;
+}
+.text-center{
+ margin-top: 100px;
+font-family: 'Montserrat', sans-serif;
 border-radius: 5px;
 }
 
 timeline{
-    position: relative;
-    
+    position: relative;   
 }
