@@ -35,3 +35,37 @@ list-style: none;
     font-family: 'Montserrat', sans-serif;
     
 }
+.container-lectus{
+    font-family: 'Open Sans'; 
+    margin-left: -30px;
+    font-size: 15px;
+    width: 450px;
+    margin-top: -450px;
+    color:#FFFFFF;
+    position: absolute; 
+    letter-spacing: 0.5px;
+    line-height: 26px;
+}
+.img-reun img{
+    width: 51%;
+    margin-left: -1px;
+    margin-top: -698px;
+    position: relative;
+}
+.img-reunion img{
+    width: 51%;
+    margin-left: 660px;
+    position: relative;
+    margin-top: 10em;
+    
+
+}
+.texto1 p{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: -17em;
+    margin-left: 2.9em;
+    color: #FFFFFF;
+    font-size: 30px;
+    position: absolute;
+
+}
