@@ -45,51 +45,201 @@ display: block;
 padding: 0.5rem 2rem;
 }
 
-.img-reunion img{
-
-    border-radius: 5px;
-}
-.text-center{
-    margin-top: 100px;
-    font-family: 'Montserrat', sans-serif;
+.container-time{
+    position: relative;
+    width: 30%;
+    height: 234px;
+    left: 50em;
+    top: 12em;
     
 }
-.container-lectus{
-    font-family: 'Open Sans'; 
-    margin-left: -30px;
-    font-size: 15px;
-    width: 450px;
-    margin-top: -450px;
-    color:#FFFFFF;
-    position: absolute; 
-    letter-spacing: 0.5px;
+.container-time p{
+    align-items: center;
+    display: flex;
+    font-family: Open'Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
     line-height: 26px;
+    letter-spacing: 0.5px;
+    color: #5D5F65;
 }
-.img-reun img{
-    width: 51%;
-    margin-left: -1px;
-    margin-top: -698px;
-    position: relative;
-}
-.img-reunion img{
-    width: 51%;
-    margin-left: 660px;
-    position: relative;
-    margin-top: 10em;
-    
-
-}
-.texto1 p{
-    font-family: 'Montserrat', sans-serif;
-    margin-top: -17em;
-    margin-left: 2.9em;
-    color: #FFFFFF;
-    font-size: 30px;
+.container-time h2{
     position: absolute;
-    margin-top: 100px;
-    font-family: 'Montserrat', sans-serif;
-    border-radius: 5px;
-}
+    width: 260px;
+    height: 26px;
+    left: 0px;
+    top: -50px;
 
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #2B2B2B;
+}
+.container-time-line img{
+   
+    position: relative;
+    width: 15%;
+    height: 490px;
+    left: 20em;
+    top: -14em;
+}
+.linea-tiempo {
+    position: relative;
+    width: 500px;
+    max-width: 50%;
+    height: 100%;
+    font-family:  Montserrat;
+    top: -38.125rem;
+    left: 12.5rem;
+  }
+  .start{
+    position: relative;
+    left: 115px;
+    top: 45px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #C71222;
+  }
+  .important p{
+      position: relative;
+      left: 75px;
+      top: -32px;
+      font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #141720;
+  }
+  .date-one{
+    position: relative;
+    left: 110px;
+    top: 45px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #D4D4D4;
+  }
+  .one-line p{
+    position: relative;
+    left: 80px;
+    top: -28px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #141720;
+  }
+  .date-two{
+    position: relative;
+    left: 115px;
+    top: 78px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #D4D4D4;
+  }
+.descripcion-two p{
+    position: relative;
+    left: 70px;
+    top: -30px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #141720;
+
+}
+.current{
+    position: relative;
+    left: 115px;
+    top: 165px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #D4D4D4;
+}  
+.finish p{
+    position: relative;
+    
+    left: 75px;
+    top: -30px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    color: #141720;
+}  
+  
+  
+  
+  
+  .momento h6 {
+    margin: 30px ;
+    font-size: 11px;
+    text-align: center;
+    
 
     
+  }
+ .descripcion {
+    border-radius: 10px;
+    padding: 10px;
+    line-height: 22px;
+    font-size: 14px;
+    left: 100px;
+    
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-third-segment li{
+    display: inline-block;
+    column-count:2;
+    list-style: none;
+    width: 400px;
+    height: 759px;
+    left: 152px;
+    top: 0px;
+}
+.third-part p{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 15px;
+    color: #5D5F65;
+
+}
