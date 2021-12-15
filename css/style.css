@@ -182,3 +182,8 @@ flex:1;
   letter-spacing: 0.5px;
 }
 
+label{
+  font-size: 12px;
+  display: block;
+  width: 100%;
+}
